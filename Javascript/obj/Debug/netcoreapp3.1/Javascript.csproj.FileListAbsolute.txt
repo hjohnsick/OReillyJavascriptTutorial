@@ -1,0 +1,13 @@
+C:\Users\hjohn\GIT\Javascript\Javascript\bin\Debug\netcoreapp3.1\Javascript.exe
+C:\Users\hjohn\GIT\Javascript\Javascript\bin\Debug\netcoreapp3.1\Javascript.deps.json
+C:\Users\hjohn\GIT\Javascript\Javascript\bin\Debug\netcoreapp3.1\Javascript.runtimeconfig.json
+C:\Users\hjohn\GIT\Javascript\Javascript\bin\Debug\netcoreapp3.1\Javascript.runtimeconfig.dev.json
+C:\Users\hjohn\GIT\Javascript\Javascript\bin\Debug\netcoreapp3.1\Javascript.dll
+C:\Users\hjohn\GIT\Javascript\Javascript\bin\Debug\netcoreapp3.1\Javascript.pdb
+C:\Users\hjohn\GIT\Javascript\Javascript\obj\Debug\netcoreapp3.1\Javascript.csprojAssemblyReference.cache
+C:\Users\hjohn\GIT\Javascript\Javascript\obj\Debug\netcoreapp3.1\Javascript.AssemblyInfoInputs.cache
+C:\Users\hjohn\GIT\Javascript\Javascript\obj\Debug\netcoreapp3.1\Javascript.AssemblyInfo.cs
+C:\Users\hjohn\GIT\Javascript\Javascript\obj\Debug\netcoreapp3.1\Javascript.csproj.CoreCompileInputs.cache
+C:\Users\hjohn\GIT\Javascript\Javascript\obj\Debug\netcoreapp3.1\Javascript.dll
+C:\Users\hjohn\GIT\Javascript\Javascript\obj\Debug\netcoreapp3.1\Javascript.pdb
+C:\Users\hjohn\GIT\Javascript\Javascript\obj\Debug\netcoreapp3.1\Javascript.genruntimeconfig.cache
